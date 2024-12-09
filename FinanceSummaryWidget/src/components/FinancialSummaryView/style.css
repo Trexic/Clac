@@ -1,0 +1,18 @@
+.vehicle-finance-calculator-widget {
+  flex: 0 0 auto;
+  margin-top: 35px;
+}
+.save-results-button {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  min-width: 345px;
+  height: 62px;
+  margin-top: 39px;
+  font: 800 16px Manrope, sans-serif;
+  color: white;
+  cursor: pointer;
+  background: #164026;
+  border: none;
+  border-radius: 20px;
+}

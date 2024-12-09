@@ -1,0 +1,42 @@
+.vertical-centered-flex-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  margin-top: 13px;
+}
+.green-box-with-text {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  background: rgba(74, 184, 91, 0.25);
+  border-radius: 4px;
+}
+.green-bar {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 326px;
+  height: 10px;
+  background: #4ab85b;
+  border-radius: 4px;
+}
+.horizontal-box-list-item {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 369px;
+  height: 10px;
+}
+.svg-container {
+  display: flex;
+  flex: 0 0 auto;
+  align-self: center;
+  width: 24px;
+  height: 24px;
+  margin-top: -17px;
+  margin-left: -62px;
+}

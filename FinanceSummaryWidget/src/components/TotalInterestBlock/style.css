@@ -1,0 +1,30 @@
+.green-box-with-rate {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px 37px 20px 29px;
+  background: #4ab85b;
+  border-radius: 20px;
+}
+.primary-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 98px;
+  padding: 0;
+  margin: 0;
+  font: 700 20px/20px Manrope, sans-serif;
+  color: white;
+  text-align: left;
+}
+.high-contrast-heading {
+  flex: 0 0 auto;
+  padding: 0;
+  padding-bottom: 4px;
+  margin: 0;
+  font: 700 36px/36px Manrope, sans-serif;
+  color: white;
+}

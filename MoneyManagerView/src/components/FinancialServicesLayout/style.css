@@ -1,0 +1,56 @@
+.mortgage-calculator-widget {
+  flex: 0 0 auto;
+}
+.financial-options-bar {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.green-button-with-border-radius {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 400px;
+  min-width: 400px;
+  height: 50px;
+  font: 700 22px Manrope, sans-serif;
+  color: white;
+  cursor: pointer;
+  background: #4ab85b;
+  border: none;
+  border-radius: 10px;
+}
+.green-accent-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 400px;
+  min-width: 400px;
+  height: 50px;
+  font: 600 22px Manrope, sans-serif;
+  color: #4ab85b;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid #4ab85b;
+  border-radius: 10px;
+}
+.loan-details-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  padding-right: 12px;
+  padding-left: 12px;
+  margin-top: 24px;
+}
+.mortgage-details-container {
+  box-sizing: border-box;
+  flex: 0 0 729px;
+  padding-top: 24px;
+}

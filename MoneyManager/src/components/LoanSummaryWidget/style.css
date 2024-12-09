@@ -1,0 +1,33 @@
+.credit-summary-container {
+  box-sizing: border-box;
+  width: 100%;
+  height: 104px;
+  padding-top: 8px;
+  padding-right: 13px;
+  padding-left: 13px;
+  border: 1px solid #4ab85b;
+  border-radius: 8px;
+}
+.credit-amount-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.credit-amount-text-style {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 500 14px Onest, sans-serif;
+  color: #4ab85b;
+}
+.credit-amount-heading {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 700 16px Onest, sans-serif;
+  color: #164026;
+}

@@ -1,0 +1,9 @@
+.financial-calculator-container3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding: 39px 25px 79px 21px;
+}

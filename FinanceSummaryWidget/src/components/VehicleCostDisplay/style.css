@@ -1,0 +1,33 @@
+.vehicle-price-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  padding: 8px 15px 19px;
+  border: 1px solid #4ab85b;
+  border-radius: 8px;
+}
+.vehicle-price-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+.vehicle-price-label {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 500 14px Onest, sans-serif;
+  color: #4ab85b;
+}
+.price-text-bold {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 700 16px Onest, sans-serif;
+  color: #164026;
+}

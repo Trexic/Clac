@@ -1,0 +1,48 @@
+.consumer-credit-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: 69px;
+  padding-right: 53px;
+  padding-left: 53px;
+  margin-top: 17px;
+  background: rgba(106, 233, 125, 0.15);
+  border-radius: 10px;
+}
+.consumer-credit-title-style {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 88.79%;
+  padding: 0;
+  margin: 0;
+  font: 700 24px Manrope, sans-serif;
+  color: rgba(22, 64, 38, 0.5);
+}
+.credit-card-options-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 11.21%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.svg-container {
+  display: flex;
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+  color: #164026;
+}
+.svg-container1 {
+  display: flex;
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+}

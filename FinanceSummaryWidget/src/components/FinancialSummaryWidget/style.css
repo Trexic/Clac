@@ -1,0 +1,37 @@
+.annual-rate-container {
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: 24.5px;
+}
+.green-border-vertical-bar {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 5px;
+  height: 167px;
+  border-left: 5px solid #4ab85b;
+}
+.annual-interest-rate-container {
+  flex: 0 1 auto;
+  padding-top: 5.5px;
+  margin-left: 17.5px;
+}
+.annual-interest-rate-label {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font: 700 20px/20px Manrope, sans-serif;
+  color: #164026;
+  text-align: left;
+}
+.annual-interest-rate-text-style {
+  padding: 0;
+  margin: 0;
+  margin-top: 6px;
+  font: 700 32px/32px Manrope, sans-serif;
+  color: #4ab85b;
+  letter-spacing: -3.2px;
+}

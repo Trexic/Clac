@@ -1,0 +1,15 @@
+.financial-calculator-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 1440px;
+  background: white;
+}
+.header-bar {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  height: 40px;
+  background: #4ab85b;
+}
